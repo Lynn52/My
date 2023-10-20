@@ -16,7 +16,7 @@
     "sass": "^1.69.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://Lynn52.github.io/MyTodoList/",
+  "homepage": "https://Lynn52.github.io/MyTodoList/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
